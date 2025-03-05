@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UT01107\\Desktop\\be\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj": {}
+    "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UT01107\\Desktop\\be\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj": {
+    "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UT01107\\Desktop\\be\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj",
+        "projectUniqueName": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj",
         "projectName": "UnicomTIC_LMS_BE",
-        "projectPath": "C:\\Users\\UT01107\\Desktop\\be\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj",
-        "packagesPath": "C:\\Users\\UT01107\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UT01107\\Desktop\\be\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\obj\\",
+        "projectPath": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj",
+        "packagesPath": "C:\\Users\\UT03304\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\UT01107\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\UT03304\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +46,24 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

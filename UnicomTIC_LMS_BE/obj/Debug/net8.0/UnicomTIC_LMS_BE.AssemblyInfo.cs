@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnicomTIC_LMS_BE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a8a94eaeb7807fd3f4c5ff652f33dd2428bb606")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnicomTIC_LMS_BE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnicomTIC_LMS_BE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
