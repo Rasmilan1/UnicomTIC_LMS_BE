@@ -3,16 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\entities\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\entities\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Migrations\\20250306104022_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnicomTIC_LMS_BE\\Migrations\\20250306104022_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\models\\requestmodel\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\models\\requestmodel\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\models\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\models\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\repositories\\emailserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\repositories\\emailserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\repositories\\sendmailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\repositories\\sendmailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\models\\requestmodel\\sendmailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\models\\requestmodel\\sendmailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\services\\sendmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\services\\sendmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\database\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\database\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\entities\\email\\emailtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\entities\\email\\emailtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,32 +91,20 @@
       "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\models\\requestmodel\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\models\\requestmodel\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\irepositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\irepositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\entities\\email\\mailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\entities\\email\\mailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\entities\\email\\emailconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\entities\\email\\emailconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\models\\responsemodel\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\models\\responsemodel\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|solutionrelative:unicomtic_lms_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7E79747-FA25-43C8-8717-4903C46B4396}|UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj|c:\\users\\ut03304\\desktop\\lms_tic\\unicomtic_lms_be\\unicomtic_lms_be\\unicomtic_lms_be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -62,147 +118,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\Role.cs",
-              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\Role.cs",
-              "RelativeToolTip": "UnicomTIC_LMS_BE\\Entities\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:24:57.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\UserRole.cs",
-              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Entities\\UserRole.cs",
-              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\UserRole.cs",
-              "RelativeToolTip": "UnicomTIC_LMS_BE\\Entities\\UserRole.cs",
+              "Title": "20250306104022_init.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Migrations\\20250306104022_init.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Migrations\\20250306104022_init.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Migrations\\20250306104022_init.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Migrations\\20250306104022_init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:24:39.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LMSDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\DataBase\\LMSDbContext.cs",
-              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\DataBase\\LMSDbContext.cs",
-              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\DataBase\\LMSDbContext.cs",
-              "RelativeToolTip": "UnicomTIC_LMS_BE\\DataBase\\LMSDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:22:41.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\IRepositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\IRepositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\IRepositories\\IUserRepository.cs",
-              "RelativeToolTip": "UnicomTIC_LMS_BE\\IRepositories\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:59:35.518Z",
+              "WhenOpened": "2025-03-06T10:40:22.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\IServices\\IUserService.cs",
-              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\IServices\\IUserService.cs",
-              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\IServices\\IUserService.cs",
-              "RelativeToolTip": "UnicomTIC_LMS_BE\\IServices\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:58:45.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRequestModel.cs",
-              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Models\\RequestModel\\UserRequestModel.cs",
-              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Models\\RequestModel\\UserRequestModel.cs",
-              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Models\\RequestModel\\UserRequestModel.cs",
-              "RelativeToolTip": "UnicomTIC_LMS_BE\\Models\\RequestModel\\UserRequestModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:58:14.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserResponseModel.cs",
-              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Models\\ResponseModel\\UserResponseModel.cs",
-              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Models\\ResponseModel\\UserResponseModel.cs",
-              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Models\\ResponseModel\\UserResponseModel.cs",
-              "RelativeToolTip": "UnicomTIC_LMS_BE\\Models\\ResponseModel\\UserResponseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:57:56.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "UnicomTIC_LMS_BE\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:56:29.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Services\\UserService.cs",
               "RelativeToolTip": "UnicomTIC_LMS_BE\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T09:56:06.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Controllers\\UserController.cs",
-              "RelativeToolTip": "UnicomTIC_LMS_BE\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwCkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T09:52:07.29Z",
+              "WhenOpened": "2025-03-05T09:56:29.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\User.cs",
               "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\User.cs",
               "RelativeToolTip": "UnicomTIC_LMS_BE\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T09:47:52.077Z",
               "EditorCaption": ""
@@ -210,19 +175,285 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "SendMailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Models\\RequestModel\\SendMailRequest.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Models\\RequestModel\\SendMailRequest.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Models\\RequestModel\\SendMailRequest.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Models\\RequestModel\\SendMailRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:23:33.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SendMailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Repositories\\SendMailRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Repositories\\SendMailRepository.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Repositories\\SendMailRepository.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Repositories\\SendMailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:12:04.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Repositories\\EmailServiceProvider.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Repositories\\EmailServiceProvider.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Repositories\\EmailServiceProvider.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Repositories\\EmailServiceProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:25:53.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Repositories\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Repositories\\TokenRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:19:46.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Models\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Models\\ChangePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Models\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Models\\ChangePasswordDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:09:16.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OTP.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\OTP.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Entities\\OTP.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\OTP.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Entities\\OTP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:18:22.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\Role.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:24:57.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\UserRole.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Entities\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:24:39.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Models\\RequestModel\\UserRequest.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Models\\RequestModel\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Models\\RequestModel\\UserRequest.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Models\\RequestModel\\UserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:07:11.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:05:36.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:52:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SendMailService.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Services\\SendMailService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Services\\SendMailService.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Services\\SendMailService.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Services\\SendMailService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAYAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:11:22.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LMSDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\DataBase\\LMSDbContext.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\DataBase\\LMSDbContext.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\DataBase\\LMSDbContext.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\DataBase\\LMSDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:22:41.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Program.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Program.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Program.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:38:13.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmailTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\Email\\EmailTemplate.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Entities\\Email\\EmailTemplate.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\Email\\EmailTemplate.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Entities\\Email\\EmailTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:14:18.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\appsettings.json",
               "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\appsettings.json",
               "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\appsettings.json",
               "RelativeToolTip": "UnicomTIC_LMS_BE\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-05T09:33:57.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:59:35.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\IServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\IServices\\IUserService.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\IServices\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:58:45.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\IRepositories\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\IRepositories\\ITokenRepository.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\IRepositories\\ITokenRepository.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\IRepositories\\ITokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:22:07.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MailModel.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\Email\\MailModel.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Entities\\Email\\MailModel.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\Email\\MailModel.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Entities\\Email\\MailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:15:24.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmailConfig.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\Email\\EmailConfig.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Entities\\Email\\EmailConfig.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Entities\\Email\\EmailConfig.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Entities\\Email\\EmailConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:13:11.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Models\\ResponseModel\\UserResponseModel.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\Models\\ResponseModel\\UserResponseModel.cs",
+              "ToolTip": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\Models\\ResponseModel\\UserResponseModel.cs",
+              "RelativeToolTip": "UnicomTIC_LMS_BE\\Models\\ResponseModel\\UserResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:57:56.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "UnicomTIC_LMS_BE.csproj",
               "DocumentMoniker": "C:\\Users\\UT03304\\Desktop\\LMS_TIC\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj",
               "RelativeDocumentMoniker": "UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj",
@@ -230,8 +461,7 @@
               "RelativeToolTip": "UnicomTIC_LMS_BE\\UnicomTIC_LMS_BE.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T09:19:54.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T09:19:54.459Z"
             }
           ]
         }
